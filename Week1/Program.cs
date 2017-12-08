@@ -51,7 +51,7 @@ namespace Week1
             //Output c, radians, angle in degrees
             Console.WriteLine("The distince between point x and point y is: " + (c.ToString("f3")));
             Console.WriteLine("The radians are: " + (radians.ToString("f3")));
-            Console.WriteLine("The angle is  " + angle + " degrees.");
+            Console.WriteLine("The angle is " + angle + " degrees.");
          }
     }
 }
